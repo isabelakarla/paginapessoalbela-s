@@ -1,0 +1,33 @@
+.foto img {
+    align-items: center;
+    border-radius: 50%;
+    height: auto;
+    font-size: 300px;
+    display: block;
+    margin: auto;
+
+   }
+.nome{
+    text-align: center;
+    font-weight: bold;
+}
+#subtitulo{
+    text-align: right;
+    
+}
+.descricao {
+    text-align: center;
+}
+
+body{
+    background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #CA5EEA 30%, #EBA85F 50%, #FFCC70 65%, #ffffff 75%, #ffffff 60%);
+
+}
+.logo {
+ text-align: right;
+}
+.contatos a {
+    text-decoration: none;
+    color:#FFCC70;
+}
